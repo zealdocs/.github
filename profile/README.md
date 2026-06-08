@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.jpg">
-  <img alt="Zeal: your offline reference library" src="banner-light.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img alt="Zeal: your offline reference library" src="banner-light.png">
 </picture>
 
 Zeal is a free, open-source offline documentation browser for Linux and Windows: your personal reference library,
